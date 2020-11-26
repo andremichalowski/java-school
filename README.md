@@ -10,6 +10,8 @@ A student that completes this project shows that they can:
 
 ## Introduction
 
+- [x] Initial commit
+
 This is a standard database scheme with courses, students, and instructors. This Java Spring REST API application will provide endpoints for clients to perform the various CRUD operations on data sets contained in the application's data.
 
 ### Database layout
